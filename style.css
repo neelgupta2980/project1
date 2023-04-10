@@ -1,0 +1,67 @@
+
+.main{
+    display: inline-block;
+    width: 20%;
+    background-color: #212026;
+}
+#aside{
+    display: inline-block;
+    width: 45%;
+    vertical-align: top;
+    margin-left: 30px;
+    font-size: 15px;
+}
+#head{
+    margin: 0px 200px -100px 0px;
+}
+table{
+    padding:-10px;
+}
+th{
+    text-align: left;
+}
+.year{
+    height: 15px;
+    width: 150px;
+}
+#skill{
+    height: 25px;
+    width: 95px;
+}
+#left-part{
+    margin-left: 40px;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    line-height: 20px;
+}
+#name{
+    height: 150px;
+}
+#nme{
+    height: 100px;
+    padding: 25px 0px 0px 32px;
+    margin: 20px 0px 0px -34px;
+    background-color: #fecb00;
+    font-weight: 300;
+    font-size: 30px;
+    font-family: sans-serif;
+    letter-spacing: 7px;
+    font-family: 'Montserrat', sans-serif;
+}
+.info{
+    padding: 0px 0px 0px 10px;
+    margin: 0px 0px 0px -40px;
+    border-left:40px solid #fecb00;
+    background-color: #292a2f;
+}
+#mid{
+    margin-right: 40px;
+}
+.nik{
+    font-weight: 900 ;
+}
+.intern{
+    font-weight: 100;
+    font-size: 20px;
+}
